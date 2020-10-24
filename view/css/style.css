@@ -1,0 +1,7 @@
+.validityText{
+    color: red;
+    font-size: 11px;
+}
+form .error {
+  color: #ff0000;
+}
